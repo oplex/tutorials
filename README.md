@@ -7,14 +7,6 @@ https://stackoverflow.com/questions/1898929/lightweight-backup-strategies-for-a-
 https://stackoverflow.com/questions/9664048/mysql-php-apache-application-backup
 https://superuser.com/questions/646532/how-to-backup-a-lamp-stack-server
 
-
-
-
-
-
-
-
-
 Database Administration Tutorials / Guides 
 
 Concepts
